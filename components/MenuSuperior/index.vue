@@ -482,8 +482,8 @@ export default {
 @media only screen and (max-width: 768px) {
 
   .imagem-logo {
-    width: 80%;
-    height: 80%;
+    width: 60%;
+    height: 60%;
     float: right;
   }
 }
